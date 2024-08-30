@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 destination: public
-# папка входа сайта; новый параметр
+# папка входа сайта; новый параметр; по умолчанию _site
 
 # Build settings
 #theme: minima
