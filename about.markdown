@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Hello, I'm Nate! This is my blog.
+
+I have some cool [projects](/projects) you might want to check out.
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
